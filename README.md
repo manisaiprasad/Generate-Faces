@@ -1,5 +1,9 @@
 # Generate-Faces
-Generative adversarial networks(GANs) to generate new images of faces.
+In this project we implement a Deep Convolutional GAN. 
 
-Genrated Faces
+This DCGAN is made of a pair of multi-layer neural networks that
+compete against each other until one learns to generate realistic
+images of faces.
+
+## These are the examples of Genrated Faces
 ![Genrated Faces](https://github.com/manisaiprasad/Generate-Faces/blob/master/assets/out.png)
